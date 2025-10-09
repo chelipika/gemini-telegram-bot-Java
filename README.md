@@ -22,8 +22,8 @@ Follow these steps to get the bot up and running.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/chelipika/gemini-telegram-bot-Java.git
+cd gemini-telegram-bot-Java
 ```
 
 ### 2. Set Environment Variables
