@@ -69,5 +69,3 @@ mvn exec:java
 ```
 
 You should see a "Bot is running..." message in your console. You can now start sending messages to your bot on Telegram!````
-
-Now your project is secure, clean, and well-documented for publishing on GitHub.
