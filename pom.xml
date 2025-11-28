@@ -4,13 +4,13 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.example</groupId>
+  <groupId>com.pi.jari</groupId>
   <artifactId>jari</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <name>jari</name>
   <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <url>https://github.com/chelipika/gemini-telegram-bot-Java</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -102,3 +102,4 @@
     </pluginManagement>
   </build>
 </project>
+
